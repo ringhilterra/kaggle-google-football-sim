@@ -1,0 +1,7 @@
+round,left_agent,right_agent,left_score,right_score,left_reward,right_reward,left_status,right_status
+0,tunable-baseline-bot/submission_v6.py,best-open-rules-bot/submission_v2.py,1,0,1,-1,DONE,DONE
+0,tunable-baseline-bot/submission_v6.py,gfootball-with-memory-patterns/submission_v15.py,0,0,0,0,DONE,DONE
+0,tunable-baseline-bot/submission_v6.py,gfootball-with-memory-patterns/submission_v28.py,0,0,0,0,DONE,DONE
+0,best-open-rules-bot/submission_v2.py,gfootball-with-memory-patterns/submission_v15.py,0,0,0,0,DONE,DONE
+0,best-open-rules-bot/submission_v2.py,gfootball-with-memory-patterns/submission_v28.py,0,0,0,0,DONE,DONE
+0,gfootball-with-memory-patterns/submission_v15.py,gfootball-with-memory-patterns/submission_v28.py,0,0,0,0,DONE,DONE

@@ -1,0 +1,6 @@
+0,1
+save_video,False
+scenario_name,11_vs_11_kaggle
+running_in_notebook,True
+episodeSteps,3000
+num_pool_plays,10
