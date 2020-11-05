@@ -1,0 +1,1 @@
+docker run -e DISPLAY=$DISPLAY -it -p 8080:8888 -v /tmp/.X11-unix:/tmp/.X11-unix:rw -v /Users/ringhilterra/Desktop/kaggle_gfootball/fmountgf:/fmountgf/ gfootball_kaggle bash

@@ -1,0 +1,1 @@
+docker build --build-arg DOCKER_BASE=ubuntu:18.04 --build-arg DEVICE=cpu . -t gfootball_kaggle
