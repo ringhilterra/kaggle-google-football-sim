@@ -1,0 +1,8 @@
+scenario_name,agent,games_played,num_wins,num_losses,num_ties,goals_for,goals_against,num_points
+academy_3_vs_1_with_keeper,../submit_agents/gfootball-with-memory-patterns/submission_v55.py,140,16,8,116,16,8,164
+academy_3_vs_1_with_keeper,../submit_agents/best-open-rules-bot/submission_v2.py,140,16,16,108,16,16,156
+academy_3_vs_1_with_keeper,../submit_agents/gfootball-with-memory-patterns/submission_v32.py,140,13,12,115,13,12,154
+academy_3_vs_1_with_keeper,../submit_agents/tunable-baseline-bot/submission_v6.py,140,11,11,118,11,11,151
+academy_3_vs_1_with_keeper,../submit_agents/gfootball-with-memory-patterns/submission_v43.py,140,8,8,124,8,8,148
+academy_3_vs_1_with_keeper,../submit_agents/maraud_wingers/submission_v1.py,139,10,16,113,10,16,143
+academy_3_vs_1_with_keeper,../submit_agents/gfootball-with-memory-patterns/submission_v15.py,139,7,10,122,7,10,143

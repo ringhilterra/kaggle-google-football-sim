@@ -1,0 +1,6 @@
+0,1
+save_video,False
+scenario_name,academy_3_vs_1_with_keeper
+running_in_notebook,False
+episodeSteps,500
+num_rounds,10
