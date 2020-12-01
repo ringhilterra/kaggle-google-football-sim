@@ -1,0 +1,26 @@
+
+
+-we want to keep container running in background, so just detech, not kill container every time?
+
+TO DOs
+- setup jupyter
+- figure out log files and output of running episodes? (want to be able to run a lot of agents against each other and record scores?)
+-understand different actions beter
+-pull different episode runs from kaggle
+
+Questions
+- where does default dump file get written out to when save_video not video set? Is it even possible to generate without save_video?
+
+NOTEs
+
+- run 'python3 agent_play.py' to play 2 agents against each other
+
+- run 'docker ps -a -q --filter=ancestor=gfootball_kaggle | xargs -I {} docker rm {}'  to cleanup killed docker containers
+
+- run 'jupyter notebook --ip 0.0.0.0 --no-browser --allow-root' to launch jupyter lab, then on local machine go to http://localhost/8080
+
+- to dump file txt use "python3 dump_to_txt.py --trace_file /fmountgf/video_replays/dabb0e4d-3dd6-4475-8c91-43578b4d09da/episode_done_20201008-065306795426.dump --output /fmountgf/test/blah.txt"
+
+- to dump file to video use "python3 dump_to_video.py --trace_file /fmountgf/video_replays/dabb0e4d-3dd6-4475-8c91-43578b4d09da/episode_done_20201008-065306795426.dump (weird that it)
+
+- episode_scraping/scrape_episodes.py , set variables you want in that file to scrape specific team and submission_id data
