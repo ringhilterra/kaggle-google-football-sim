@@ -7,3 +7,5 @@ https://www.kaggle.com/c/google-football/overview
 
 
 Docker setup for kaggle + google football simulation environment, including jupyter notebook setup.
+
+See **fmountgf** for full directory structure with analysis jupyter notebooks, agent implementations, local match play framework, and ML agent exploration.
