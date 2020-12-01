@@ -1,0 +1,8 @@
+scenario_name,agent,games_played,num_wins,num_losses,num_ties,goals_for,goals_against,num_points
+11_vs_11_kaggle,../submit_agents/gfootball-with-memory-patterns/submission_v32.py,70,33,18,19,109,82,118
+11_vs_11_kaggle,../submit_agents/gfootball-with-memory-patterns/submission_v43.py,70,30,19,21,96,70,111
+11_vs_11_kaggle,../submit_agents/gfootball-with-memory-patterns/submission_v55.py,70,27,22,21,83,68,102
+11_vs_11_kaggle,../submit_agents/gfootball-with-memory-patterns/submission_v15.py,70,25,27,18,87,87,93
+11_vs_11_kaggle,../submit_agents/best-open-rules-bot/submission_v2.py,70,24,30,16,62,76,88
+11_vs_11_kaggle,../submit_agents/maraud_wingers/submission_v1.py,70,20,27,23,64,81,83
+11_vs_11_kaggle,../submit_agents/tunable-baseline-bot/submission_v6.py,70,17,33,20,68,105,71

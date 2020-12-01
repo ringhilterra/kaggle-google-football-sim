@@ -21,8 +21,8 @@ AGENTS = [
     '../submit_agents/maraud_wingers/submission_v1.py'
 ]
 
-NUM_ROUNDS = 10
-EPISODE_STEPS = 3000
+NUM_ROUNDS = 5
+EPISODE_STEPS = 1500
 SCENARIO_NAME = '11_vs_11_kaggle'
 
 

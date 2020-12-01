@@ -1,0 +1,6 @@
+0,1
+save_video,False
+scenario_name,11_vs_11_kaggle
+running_in_notebook,False
+episodeSteps,1500
+num_rounds,5
