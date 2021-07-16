@@ -14,4 +14,4 @@ https://www.kaggle.com/c/google-football/overview
 
 I created a framework for pool play simulation matches for different agents, and published as a notebook on kaggle.
 
-
+![](agent_play.gif)
